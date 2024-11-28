@@ -4,4 +4,4 @@ This is just for the Odin Project which i'm currently doing. I need a refresher 
 
 ## What is this project about now?
 
-Just a simple, HTML only `html <title>recipe page</title>`.
+Just a simple, HTML only `<title>recipe page</title>`.
